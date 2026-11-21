@@ -74,7 +74,7 @@ The application uses a decoupled architecture: Streamlit handles the user interf
 
 The dark-theme screenshot also demonstrates the case where a selected movie is not matched in the local TF-IDF dataset: the TF-IDF section can be empty while TMDB genre-based recommendations remain available.
 
-> Keep `odyssey_movie.png` and `doomsday_movie.png` in the repository root alongside this README for the images to render.
+
 
 ## Features
 
